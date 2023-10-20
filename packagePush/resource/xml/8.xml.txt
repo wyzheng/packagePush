@@ -1,0 +1,7 @@
+<sysmsg type="paymsg">
+<paymsg>
+<PayMsgType>32</PayMsgType>
+<receiveorpayreddot><![CDATA[1]]></receiveorpayreddot>
+<rewardcodereddot><![CDATA[1]]></rewardcodereddot>
+</paymsg>
+</sysmsg>

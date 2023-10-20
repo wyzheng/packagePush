@@ -1,0 +1,10 @@
+2022-10-21 20:32:55,764 - D:\搜一搜测试\广告自动化\packagePush\util.py[line:42] - INFO: status:200, res:{"cost_time":49,"data":{"alias":"cutebot333","bindemail":"","bindmobile":"","binduin":0,"idc":1,"uin":3193557057,"username":"wxid_2j09orqr0gno12"},"msg":"ok","rtn":0}
+
+2022-10-21 20:32:56,144 - D:\搜一搜测试\广告自动化\packagePush\util.py[line:42] - INFO: status:200, res:{"cost_time":286,"msg":"SendMsg ok","rtn":0}
+
+2022-10-21 21:15:09,328 - D:\搜一搜测试\广告自动化\packagePush\util.py[line:42] - INFO: status:200, res:{"cost_time":48,"data":{"alias":"cutebot333","bindemail":"","bindmobile":"","binduin":0,"idc":1,"uin":3193557057,"username":"wxid_2j09orqr0gno12"},"msg":"ok","rtn":0}
+
+2022-10-28 16:30:33,960 - D:\搜一搜测试\广告自动化\packagePush\util.py[line:42] - INFO: status:200, res:{"cost_time":56,"data":{"alias":"cutebot333","bindemail":"","bindmobile":"","binduin":0,"idc":1,"uin":3193557057,"username":"wxid_2j09orqr0gno12"},"msg":"ok","rtn":0}
+
+2022-11-14 23:39:53,737 - D:\搜一搜测试\广告自动化\packagePush\util.py[line:42] - INFO: status:200, res:{"cost_time":59,"data":{"alias":"cutebot333","bindemail":"","bindmobile":"","binduin":0,"idc":1,"uin":3193557057,"username":"wxid_2j09orqr0gno12"},"msg":"ok","rtn":0}
+

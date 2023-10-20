@@ -1,0 +1,14 @@
+<sysmsg type="globalalert">
+<id>1</id>
+<important>2</important>
+<title>密码有风险</title>
+<msg>你需要改密码</msg>
+<btnlist>
+<btn actiontype="1" title="取消" id="1"></btn>
+<btn actiontype="2" title="看详情" id="2">http://www.qq.com</btn>
+<btn actiontype="3" title="改密码" id="3"></btn>
+<btn actiontype="4" title="更换手机" id="3"></btn>
+<btn actiontype="5" title="扫一扫" id="3"></btn>
+</btnlist>
+</sysmsg>
+

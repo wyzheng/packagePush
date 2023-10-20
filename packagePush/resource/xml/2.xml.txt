@@ -1,0 +1,2 @@
+<sysmsg type="showprivacypolicy">  <showprivacypolicy><guidance_content>微信团队重视用户隐私并严格遵守相关法律法规的要求。我们对《微信隐私保护指引》进行了更新，请先阅读内容后再继续使用微信。</guidance_content>
+<doublecheck_content>如果不同意《腾讯微信软件许可及服务协议》及《微信隐私保护指引》，将退出微信。</doublecheck_content><needbirthday>yes</needbirthday><needopenplatform>yes</needopenplatform></showprivacypolicy></sysmsg>

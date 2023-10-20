@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+
+"""
+Author:         xiazeng
+Create time:    2021/3/19
+Description:    
+
+"""
+from push import SendXML
+from push import get_xml_info
+from push import generate_push_newxml
+
+if __name__ == "__main__":
+    print('SendXML')
+    SendXML = SendXML("3191396391;3193557057", 37678, type=10002)
+    # print('GetXML')
+    # XMLContent = GetXML(36921)
+    # print('SendXML')
+    # SendXML('cutebot111', 'XMLContent', type=10002)
+

@@ -1,0 +1,11 @@
+1.xml.txt 全局弹窗，各种btn都有
+2.xml.txt 欧盟隐私协议弹窗
+3.xml.txt 群聊出banner，群聊ID需要手工修改
+4.xml.txt 单聊出banner，目前单聊好友是tenceny,自己去改
+5.xml.txt 弹窗提示绑手机，没绑手机的微信才能弹
+6.xml.txt 弹窗提示设置可信好友
+7.xml.txt 弹窗提示设置独立密码，密码为空才出
+8.xml.txt +菜单的收付款出红点，收款二维码出new
+9.xml.txt 一般隐私协议弹窗
+10.xml.txt  修改动态配置,WCO通话成功后，一天内可以有多次通话反馈，但每次间隔要半小时
+wco.xml.txt  cgitest录的数据包，作用是：831-有wco购买套餐，最后一个可用.

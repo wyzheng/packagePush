@@ -1,0 +1,4 @@
+<sysmsg type="showprivacypolicy">
+<showprivacypolicy>
+</showprivacypolicy>
+</sysmsg>

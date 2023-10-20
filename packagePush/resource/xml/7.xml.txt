@@ -1,0 +1,3 @@
+<sysmsg type="setpasswdtip">
+<setpasswdtip></setpasswdtip>
+</sysmsg>

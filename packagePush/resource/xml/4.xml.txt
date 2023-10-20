@@ -1,0 +1,2 @@
+<sysmsg type="banner"><banner><securitybanner><chatname>tenceny</chatname><wording>当前好友账号异常，谨防利用充话费，借钱等理由行骗。</wording>
+<linkname>查看详情</linkname><linksrc>https://weixin.qq.com/</linksrc><showtype>1</showtype></securitybanner></banner></sysmsg>

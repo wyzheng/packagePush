@@ -1,0 +1,4 @@
+<sysmsg type="bindmobiletip">
+<bindmobiletip>
+</bindmobiletip>
+</sysmsg>

@@ -1,0 +1,7 @@
+<sysmsg type="showtrustedfriends">
+<showtrustedfriends>
+<wording>
+<![CDATA[设置可信好友，可以辅助你找回密码]]>
+</wording>
+</showtrustedfriends>
+</sysmsg>
